@@ -1,0 +1,43 @@
+[
+
+    {
+      "store": "store 1",
+      "product": "Monitor",
+      "brand": "NY",
+      "description":"ABC",
+      "price":"200"
+    },
+    {
+      "store": "store 1",
+      "product": "Keyboard",
+      "description":"XYZ",
+      "brand": "NY",
+      "price":"250"
+    },
+    {
+      "store": "store 3",
+      "product": "Monitor",
+      "brand": "VA",
+      "price":"220"
+    },
+    {
+      "store": "store 5",
+      "product": "Camera",
+      "brand": "VA",
+      "description":"This is camera",
+      "price":"220"
+    },
+    {
+      "store": "store 2",
+      "product": "Mouse",
+      "description":"This is Mouse",
+      "brand": "VA",
+      "price":"220"
+    },
+    {
+      "store": "store 5",
+      "product": "MotherBoard",
+      "description":"This is Motherboard",
+      "price":"220"
+    }
+  ]
